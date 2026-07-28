@@ -1,4 +1,4 @@
-;;; groovy-electric.el --- Electric mode for Groovy
+;;; groovy-electric.el --- Electric mode for Groovy  -*- lexical-binding: t; -*- 
 
 ;; Copyright (C) 2009 Jim Morris
 

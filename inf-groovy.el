@@ -1,4 +1,4 @@
-;;; inf-groovy.el --- inferior Groovy mode – groovy process in a buffer
+;;; inf-groovy.el --- inferior Groovy mode – groovy process in a buffer  -*- lexical-binding: t; -*-
 
 ;;; Inferior Groovy Mode – groovy process in a buffer.
 ;;;                      adapted from cmuscheme.el and inf-haskell.el

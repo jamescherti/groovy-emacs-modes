@@ -1,4 +1,4 @@
-;;; grails-mode.el --- minor-mode that adds some Grails project management to a grails project
+;;; grails-mode.el --- minor-mode that adds some Grails project management to a grails project  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2010 Jim Morris
 
